@@ -1,0 +1,6 @@
+logger:
+  level: "debug" # "debug" or "info"
+
+mongo:
+  uri: "mongodb://mongoadmin:secret@127.0.0.1:27017/admin"
+  database: "testdb"
